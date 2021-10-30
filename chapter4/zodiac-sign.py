@@ -1,3 +1,5 @@
+# stick to one comparison operator, take the higher value.
+
 date = int(input("Enter the date number: "))
 month = str.lower(input("Enter the month: "))
 
