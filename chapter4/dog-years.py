@@ -4,7 +4,7 @@
 # add 10.5 to output
 
 humanYears = int(input("Please enter the number of years: ")) - 2
-conversionToDogYears = int((humanYears * 4) + (2 * 10.50))
+conversionToDogYears = ((humanYears * 4) + (2 * 10.50))
 
 print(conversionToDogYears)
 
