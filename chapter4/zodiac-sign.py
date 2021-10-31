@@ -20,7 +20,7 @@ elif month == "april" or month == "may":
     print("Your Astrological sign is : Taurus")
 elif month == "may" or month == "june":
   if date <= 22 or date >= 19:
-    print("Your Astrological sign is : Gemini")
+    print("Your A strological sign is : Gemini")
 elif month == "june" or month == "july":
   if date <= 21 or date >= 22:
     print("Your Astrological sign is : Cancer")
