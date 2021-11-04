@@ -16,3 +16,5 @@ finalPrice = firstCopy + remainingCopies
 # print(Decimal(finalPrice) - Decimal(0.001))
 
 print(finalPrice - 0.0000000000001)
+
+
